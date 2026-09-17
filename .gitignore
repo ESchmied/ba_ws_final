@@ -1,0 +1,4 @@
+# .git ignore
+build/
+log/
+install/
